@@ -1,0 +1,12 @@
+{
+  "name": "sportium_evaluacion_tecnica",
+  "version": "1.0.0",
+  "description": "Página de producto para Spaceman en Sportium",
+  "main": "index.js",
+  "scripts": {
+    "start": "start index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
